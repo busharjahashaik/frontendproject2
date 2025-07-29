@@ -1,0 +1,15 @@
+.content{
+    background: bisque;
+}
+
+.header{
+    background: aquamarine
+}
+
+.body{
+    background: rgb(191, 141, 76);
+}
+
+.footer{
+    background: aliceblue;
+}
